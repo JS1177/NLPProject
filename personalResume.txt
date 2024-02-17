@@ -1,0 +1,74 @@
+Name: Chong Jia Shuo
+Email: 222978d@mymail.nyp.edu.sg
+Handphone: 9777 1234
+LinkedIn: https://www.linkedin.com/in/js-chong-30766b273
+Nationality: Singaporean
+Languages Known: English and Chinese
+About Me
+As an individual who has developed a strong appreciation and passion for Artificial Intelligence (AI) during my study at NYP, I have actively engaged in independent, self-directed learning. I have taught myself various programming languages and fundamental theories of AI (Probability & Calculus, etc.). Currently, I am looking to add value to an organisation by using my knowledge and expertise to develop various AI models and algorithms, as well as share these outcomes with multiple stakeholders.
+Education
+•	‘O’ Level Graduate, Chung Cheng High School (Yishun)
+o	ELR2B2 Nett 7
+•	Diploma in AI and Data Engineering, Nanyang Polytechnic, Singapore, Year 2
+o	GPA 4.0
+o	Relevant Distinctions in:
+	Programming
+	Data Preparation & Visualization
+	Data Management
+	Machine Learning
+	Cloud Computing & Platform
+	Data Engineering Project
+	Analytical Geometry (Diploma Plus Module)
+	Applied Calculus (Diploma Plus Module)
+Relevant Skills
+Proficient Skills:
+•	Python
+o	Scientific Libraries, i.e., NumPy and Pandas
+•	Microsoft Office 365
+Intermediate Knowledge:
+•	C++
+•	SQL
+•	Windows Operating System
+Basic Knowledge:
+•	UNIX
+•	Cloud Services
+•	Power BI
+ 
+Achievements
+•	Huawei ICT Competition Cloud Track 3rd Place
+•	Year 1 Semester 2 Top Student, Diploma in AI and Data Engineering, Nanyang Polytechnic
+•	Year 2 Semester 1 Top Student, Diploma in AI and Data Engineering, Nanyang Polytechnic
+•	Year 1 Semester 1 Director List, Nanyang Polytechnic
+•	Year 1 Semester 2 Director List, Nanyang Polytechnic
+•	Year 2 Semester 1 Director List, Nanyang Polytechnic
+•	Edusave Certificate of Academic Achievement 2023, Diploma in AI and Data Engineering, Nanyang Polytechnic
+•	Certificate of Completion, Literacy in AI, AI Singapore
+•	Certificate of Completion, Foundations in AI, AI Singapore
+•	Certificate of Completion, Python for Everybody, University of Michigan, Coursera
+Projects
+•	“Computer Vision for Automated Assembly and Disassembly Manufacturing Plants” (Y2S2)
+o	Conducted an in-depth literature review on plausible Computer Vision models for various tasks -- Anomaly Detection, Object Detection, and Object Segmentation – applicable to be used by Assembly/Disassembly robots.
+o	Collected and prepared datasets for model training using labelling applications.
+o	Used fully customized Python Kera’s models and fine-tuned pre-trained models.
+o	Created and deployed a production Web-Based AI application inclusive of all features developed and proper data pipelining.
+•	“Service Outlet Location Recommendation” Project (Y2S1)
+o	Followed CRISP-DM Methodology.
+o	Determined business problems, objectives, and situation (Business Understanding)
+o	Led brainstorming sessions to determine the best factors for an outlet location.
+o	Performed data preprocessing (Cleaning, Processing and Transformation) and analysis of disparate data sources using Python.
+o	Leveraged machine learning algorithms for analysis.
+o	Presented analysis and findings to stakeholders using intuitively designed dashboards.
+•	“Oyster Mushroom Growth Analysis” Project (Y2S1)
+o	Formulated the project’s timeline and expected deliverables.
+o	Coordinated team members' tasks and responsibilities.
+o	Made use of Internet of Things (IoT) sensors and actuators to monitor and control the environment of oyster mushrooms remotely.
+o	Carried out statistical analysis on data collected from IoT sensors.
+•	Engineering Exploration Project, “Bee Integration into Commercial Urban Farms” Project (Y1S2)
+o	Received Certificate of Excellence
+o	Generated innovative solutions to solve urban farms' inability to grow pollinator-dependent crops.
+o	Spearheaded group literature review.
+o	Created a Functional Prototype using wireless data transfer technology: MQTT.
+Hobbies
+•	Programming
+•	Classical Piano
+•	Reading (Non-Fiction)
